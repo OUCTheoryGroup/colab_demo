@@ -8,6 +8,6 @@
 
 03 — 【[ 使用神经网络解决Spiral classifciation问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/03_Spiral_Classification.ipynb)】
 
-
+04 — 【[ 使用神经网络解决回归问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/04_Regression.ipynb)】
 
 
