@@ -2,6 +2,12 @@
 
 （内容将不断更新）
 
-01. [使用VGG模型进行猫狗大战](https://github.com/OUCTheoryGroup/pytorch_demo/blob/master/01_Using_CNN_for_dogs_vs_cats.ipynb)
+01 —  【[ Python图像处理基础 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/01_Image_Processing.ipynb)】
+
+02 — 【[ PyTorch基础 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/02_Pytorch_Basic.ipynb)】
+
+03 — 【[ 使用神经网络解决Spiral classifciation问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/03_Spiral_Classification.ipynb)】
+
+
 
 
