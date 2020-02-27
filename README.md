@@ -22,7 +22,7 @@
 
 <br><br>
 
-此外，我还整理了一些**知名论文**代码的 pytorch 实现，添加解释说明和备注放在 colab 平台上了，供大家学习，具体如下：
+此外，我还整理了一些典型论文代码的 pytorch 实现，添加解释说明和备注放在 colab 平台上了，供大家学习，具体如下：
 
 ✅ 【[基于 PCA 和 k-means 的遥感图像变化检测](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Change_detection_PCA_KM.ipynb)】 IEEE GRSL 2009
 
