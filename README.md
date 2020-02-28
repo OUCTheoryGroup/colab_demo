@@ -18,7 +18,11 @@
 
 🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】
 
+🟢 07  【[ 变分自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/07_VAE.ipynb)】
 
+🟢 08  【[ 使用GAN生成double moon 数据 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/08_GAN_double_moon.ipynb)】
+
+🟢 09  【[ CGAN和DCGAN在mnist上的应用 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/09_CGAN_DCGAN_mnist.ipynb)】
 
 <br><br>
 
