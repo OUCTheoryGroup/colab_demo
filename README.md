@@ -10,17 +10,23 @@
 
 🟢 02  【[ PyTorch基础 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/02_Pytorch_Basic.ipynb)】
 
-🟢 03  【[ 使用神经网络解决Spiral classifciation问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/03_Spiral_Classification.ipynb)】
+🟢 03  【[ 写一个简单的网络解决Spiral classifciation问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/03_Spiral_Classification.ipynb)】
 
-🟢 04  【[ 使用神经网络解决回归问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/04_Regression.ipynb)】
+🟢 04  【[ 写一个2层的网络解决回归问题 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/04_Regression.ipynb)】
 
-🟢 05  【[ 卷积神经网络 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_ConvNet.ipynb)】
+🟢 05_01  【[ 写一个LeNet应用于MNIST分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_01_ConvNet.ipynb)】分类准确率轻松达到96%，下一课换稍难些的CIFAR10
 
-🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】
+🟢 05_02  【[ 写一个LeNet应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_02_CNN_CIFAR10.ipynb)】CIFAR10数据集相对较难，分类准确率只有64%，下一课换更好的VGG网络
 
-🟢 07  【[ 变分自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/07_VAE.ipynb)】
+🟢 05_03  【[ 写一个VGG应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_02_CNN_CIFAR10.ipynb)】使用VGG网络，准确率提升至84.92 %，下一课我们适当缓冲下，学习下VGG在迁移学习中的应用
 
-🟢 08  【[ 使用GAN生成double moon 数据 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/08_GAN_double_moon.ipynb)】
+🟢 05_04  【[ VGG迁移学习进行猫狗大战 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_04_Transfer_VGG_for_dogs_vs_cats.ipynb)】海量高分辨率图像的训练，比较玄学，很难得到一个好的网络。这里我们学习在pretrained VGG网络上 fine-tune，分类猫狗图片
+
+🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】这节课学习用自编码器重建MNIST，同时观察加入denosing后，自编码器在MNIST重建上的性能变化
+
+🟢 07  【[ 用变分自编码器生成数字 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/07_VAE.ipynb)】输入随机噪声，生成数字图像
+
+🟢 08  【[ 写简单的GAN网络生成double moon 数据 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/08_GAN_double_moon.ipynb)】
 
 🟢 09  【[ CGAN和DCGAN在mnist上的应用 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/09_CGAN_DCGAN_mnist.ipynb)】
 
