@@ -1,8 +1,12 @@
-## 中国海洋大学视觉实验室前沿理论小组 pytorch 学习
+## 中国海洋大学视觉实验室前沿理论小组 PyTorch 学习
 
 （内容将不断更新）
 
-大家注意，列表里的所有代码上方都有一个“Open in Colab”的图标，点击以后就可以直接在 Google Colab 平台打开，也可以在平台直接运行。需要使用GPU的话，可以在菜单 "代码执行工具"  → "更改运行时类型" 里进行设置。
+为方便大家理解代码，我编写了这些教程，并保持不停更新。为方便大家理解算法及代码原理，不浪费时间在配置环境上，下面代码均能顺利在 Google 云端 GPU 平台在线运行，并能够非常快速的运行出结果。
+
+大家注意，列表里的所有代码上方都有一个“Open in Colab”的图标，点击以后就可以直接在 Google Colab 平台打开，也可以在平台直接运行。需要使用GPU的话，可以在Colab的菜单 "代码执行工具"  → "更改运行时类型" 里进行设置。
+
+代码都浅显易懂，添加了大量的备注及说明，有不明白的地方，可以调试中间结果观察数据的变化情况。不明白怎么调试，可以随时联系我。
 
 
 
@@ -21,6 +25,20 @@
 🟢 05_03  【[ 写一个VGG应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_02_CNN_CIFAR10.ipynb)】使用VGG网络，准确率提升至84.92 %，下一课我们适当缓冲下，学习下VGG在迁移学习中的应用
 
 🟢 05_04  【[ VGG迁移学习进行猫狗大战 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_04_Transfer_VGG_for_dogs_vs_cats.ipynb)】海量高分辨率图像的训练，比较玄学，很难得到一个好的网络。这里我们学习在pretrained VGG网络上 fine-tune，分类猫狗图片
+
+🟢 05_05  【[ 写一个GoogLeNet应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_05_GoogLeNet_CIFAR10.ipynb)】手写InceptionV3，准确率提升至85.40%
+
+🟢 05_06  【[ 写一个ResNet18应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_06_Resnet_CIFAR10.ipynb)】手写ResNet18，准确率提升至85.96%
+
+🟢 05_07  【[ Dual Path Networks应用于CIFAR10分类 ]()】**(NIPS 2017)**
+
+🟢 05_08  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】**(CVPR 2018)**
+
+🟢 05_09  【[ MobileNetV2应用于CIFAR10分类 ]()】**(CVPR 2018)**
+
+🟢 05_10  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】**(ECCV 2018)**
+
+🟢 05_11  【[ EfficientNet应用于CIFAR10分类 ]()】**(ICML 2019)**
 
 🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】这节课学习用自编码器重建MNIST，同时观察加入denosing后，自编码器在MNIST重建上的性能变化
 
