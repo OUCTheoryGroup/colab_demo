@@ -46,15 +46,15 @@
 
 ✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
 
-✅ 【[ Dual Path Networks应于CIFAR10分类 ]()】 NIPS 2017   【3月初完成】
+🟩 【[ Dual Path Networks应于CIFAR10分类 ]()】 NIPS 2017   【3月初完成】
 
-✅  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
+🟩  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
 
-✅  【[ MobileNetV2应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
+🟩  【[ MobileNetV2应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
 
-✅  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】ECCV 2018  【3月初完成】
+🟩  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】ECCV 2018  【3月初完成】
 
-✅  【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  【3月初完成】
+🟩  【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  【3月初完成】
 
 <br><br>
 
