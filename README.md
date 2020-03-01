@@ -30,17 +30,7 @@
 
 🟢 05_06  【[ 写一个ResNet18应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/05_06_Resnet_CIFAR10.ipynb)】手写ResNet18，准确率提升至85.96%
 
-🟢 05_07  【[ Dual Path Networks应用于CIFAR10分类 ]()】**(NIPS 2017)**
-
-🟢 05_08  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】**(CVPR 2018)**
-
-🟢 05_09  【[ MobileNetV2应用于CIFAR10分类 ]()】**(CVPR 2018)**
-
-🟢 05_10  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】**(ECCV 2018)**
-
-🟢 05_11  【[ EfficientNet应用于CIFAR10分类 ]()】**(ICML 2019)**
-
-🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】这节课学习用自编码器重建MNIST，同时观察加入denosing后，自编码器在MNIST重建上的性能变化
+🟢 06  【[ 自编码器与降噪自编码器 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/06_Autoencoder.ipynb)】这节课学习用自编码器重建MNIST，同时观察加入denoising后，自编码器在MNIST重建上的性能变化
 
 🟢 07  【[ 用变分自编码器生成数字 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/07_VAE.ipynb)】输入随机噪声，生成数字图像
 
@@ -56,7 +46,15 @@
 
 ✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
 
+✅ 【[ Dual Path Networks应于CIFAR10分类 ]()】 NIPS 2017   【3月初完成】
 
+✅  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
+
+✅  【[ MobileNetV2应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
+
+✅  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】ECCV 2018  【3月初完成】
+
+✅  【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  【3月初完成】
 
 <br><br>
 
