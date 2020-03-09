@@ -42,19 +42,33 @@
 
 此外，我还整理了一些典型论文代码的 pytorch 实现，添加解释说明和备注放在 colab 平台上了，供大家学习，具体如下：
 
+<br>
+
+### 遥感图像处理：
+
 ✅ 【[基于 PCA 和 k-means 的遥感图像变化检测](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Change_detection_PCA_KM.ipynb)】 IEEE GRSL 2009
+
+✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/HybridSN_GRSL2019.ipynb)】 IEEE GRSL 2020
+
+<br>
+
+### 卷积神经网络进展：
+
+✅ 【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018
+
+✅ 【[ MobileNetV1应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/MobileNetV1_CIFAR10.ipynb)】谷歌2017年提出 
+
+✅ 【[ MobileNetV2应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/MobileNetV2_CIFAR10.ipynb)】CVPR 2018 
+
+✅ 【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  
+
+<br>
+
+## 图像分割与修复：
 
 ✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
 
-🟩 【[ Dual Path Networks应于CIFAR10分类 ]()】 NIPS 2017   【3月初完成】
-
-🟩  【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
-
-🟩  【[ MobileNetV2应用于CIFAR10分类 ]()】CVPR 2018  【3月初完成】
-
-🟩  【[ Progressive Neural Architecture Search应用于CIFAR10分类 ]()】ECCV 2018  【3月初完成】
-
-🟩  【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  【3月初完成】
+✅ 【[CBDNet 图像去噪](https://github.com/OUCTheoryGroup/colab_demo/blob/master/CBDNet_CVPR2019.ipynb)】 CVPR 2019
 
 <br><br>
 
