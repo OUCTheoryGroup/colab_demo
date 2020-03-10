@@ -46,29 +46,29 @@
 
 ### 遥感图像处理：
 
-✅ 【[基于 PCA 和 k-means 的遥感图像变化检测](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Change_detection_PCA_KM.ipynb)】 IEEE GRSL 2009
+✅ 【[基于 PCA 和 k-means 的遥感图像变化检测](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/Change_detection_PCA_KM.ipynb)】 IEEE GRSL 2009
 
-✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/HybridSN_GRSL2020.ipynb)】 IEEE GRSL 2020
+✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/HybridSN_GRSL2020.ipynb)】 IEEE GRSL 2020
 
 <br>
 
 ### 卷积神经网络进展：
 
-✅ 【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ]()】CVPR 2018
+✅ 【[ Squeeze-and-Excitation Net应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/SENet_CIFAR10.ipynb)】CVPR 2018
 
-✅ 【[ MobileNetV1应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/MobileNetV1_CIFAR10.ipynb)】谷歌2017年提出 
+✅ 【[ MobileNetV1应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/MobileNetV1_CIFAR10.ipynb)】谷歌2017年提出 
 
-✅ 【[ MobileNetV2应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/MobileNetV2_CIFAR10.ipynb)】CVPR 2018 
+✅ 【[ MobileNetV2应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/MobileNetV2_CIFAR10.ipynb)】CVPR 2018 
 
-✅ 【[ EfficientNet应用于CIFAR10分类 ]()】ICML 2019  
+✅ 【[ GhostNet ]()】CVPR 2020  
 
 <br>
 
 ## 图像分割与修复：
 
-✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
+✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
 
-✅ 【[CBDNet 图像去噪](https://github.com/OUCTheoryGroup/colab_demo/blob/master/CBDNet_CVPR2019.ipynb)】 CVPR 2019
+✅ 【[CBDNet 图像去噪](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/CBDNet_CVPR2019.ipynb)】 CVPR 2019
 
 <br><br>
 
