@@ -48,7 +48,7 @@
 
 ✅ 【[基于 PCA 和 k-means 的遥感图像变化检测](https://github.com/OUCTheoryGroup/colab_demo/blob/master/Change_detection_PCA_KM.ipynb)】 IEEE GRSL 2009
 
-✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/HybridSN_GRSL2019.ipynb)】 IEEE GRSL 2020
+✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/HybridSN_GRSL2020.ipynb)】 IEEE GRSL 2020
 
 <br>
 
