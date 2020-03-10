@@ -60,7 +60,7 @@
 
 ✅ 【[ MobileNetV2应用于CIFAR10分类 ](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/MobileNetV2_CIFAR10.ipynb)】CVPR 2018 
 
-✅ 【[ GhostNet ]()】CVPR 2020  
+✅ 【[ GhostNet ](https://www.cnblogs.com/gaopursuit/p/12458435.html)】CVPR 2020  
 
 <br>
 
