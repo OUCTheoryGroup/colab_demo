@@ -52,6 +52,8 @@
 
 ✅ 【[3D-2D CNN feature hierarchy 高光谱分类](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/HybridSN_GRSL2020.ipynb)】 IEEE GRSL 2020
 
+✅ 【[Deep Hyperspectral Prior 无监督的高光谱图像去噪](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/deepHSIprior_CVPR2019workshop.ipynb)】 IEEE CVPR 2019 workshop
+
 <br>
 
 ### 卷积神经网络进展：
@@ -66,11 +68,15 @@
 
 <br>
 
-## 图像分割与修复：
+## 图像分割、修复、多模态：
 
 ✅ 【[代码短小精悍的无监督图像分割](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/Unsupervised_Segmentation.ipynb)】 ICASSP 2018
 
 ✅ 【[CBDNet 图像去噪](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/CBDNet_CVPR2019.ipynb)】 CVPR 2019
+
+✅ 【[DSCMR_ 深度监督跨模态数据检索（图像-文本）](https://github.com/OUCTheoryGroup/colab_demo/blob/master/202003_models/DSCMR_CVPR2019.ipynb)】 CVPR 2019
+
+
 
 <br><br>
 
