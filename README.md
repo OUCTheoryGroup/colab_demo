@@ -1,5 +1,7 @@
 ## 中国海洋大学视觉实验室前沿理论小组 PyTorch 学习
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 （内容将不断更新）
 
 为方便大家理解代码，我编写了这些教程，并保持不停更新。为方便大家理解算法及代码原理，不浪费时间在配置环境上，下面代码均能顺利在 Google 云端 GPU 平台在线运行，并能够非常快速的运行出结果。
